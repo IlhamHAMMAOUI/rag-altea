@@ -1,0 +1,18 @@
+# Base vectorielle
+base_vectorielle/
+chroma_db/
+*.sqlite3
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Fichiers temporaires
+*.log
+.DS_Store
